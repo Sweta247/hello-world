@@ -1,2 +1,3 @@
 # hello-world
-starting github as newbie
+Trust yourself even when the winds blow against you.
+ 
